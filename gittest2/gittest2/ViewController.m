@@ -19,6 +19,10 @@
     NSLog(@"test1");
      NSLog(@"tejhhfg");
     NSLog(@"dsfds");
+    
+     NSLog(@"dfdsa");
+    NSLog(@"derwrwqds");
+     NSLog(@"654864s");
 }
 
 - (void)didReceiveMemoryWarning {
