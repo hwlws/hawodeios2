@@ -27,7 +27,7 @@
      NSLog(@"65484848");
      
      
-     SLog(@"dfdsa");
+     NSLog(@"dfdsa");
     NSLog(@"der452wqds");
      NSLog(@"6545464s");
      NSLog(@"545sa");
