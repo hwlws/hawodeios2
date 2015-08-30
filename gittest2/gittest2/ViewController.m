@@ -16,6 +16,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"test1");
+
      NSLog(@"tejhhfg");
     NSLog(@"dsfds");
     
@@ -35,6 +36,9 @@
      NSLog(@"65484848");
      
      
+
+    NSLog(@"2324niaads");
+
 }
 
 - (void)didReceiveMemoryWarning {
