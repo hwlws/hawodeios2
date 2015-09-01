@@ -18,7 +18,8 @@
     [super viewDidLoad];
     NSLog(@"test1");
     NSLog(@"方磊！");
-
+    NSLog(@"i'm chenli");
+    
      NSLog(@"tejhhfg");
     NSLog(@"dsfds");
     
@@ -42,6 +43,10 @@
     NSLog(@"2324niaads");
 
     
+
+
+    NSLog(@"test");
+    NSLog(@"i'm chenli");
 
 }
 
